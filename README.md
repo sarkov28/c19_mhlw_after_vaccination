@@ -1,5 +1,12 @@
 # ワクチンの副反応疑いに関する資料の csv 化
 
+## Last Update
+
+2021-08-18 22:42 ごろ、以下の問題に気づき、修正しました。  
+t2 形式のデータは、「t1 形式のデータの全ての CR を半角ブランクに置き換えたもの」であるはずでしたが、一部、置き換わっていませんでした。  
+この問題は、現在は修正されています。  
+失礼しました。
+
 ## URL
 
 https://github.com/sarkov28/c19_mhlw_after_vaccination
@@ -23,7 +30,9 @@ https://www.mhlw.go.jp/stf/shingi2/0000208910_00028.html
 注については、該当の pdf を参照して下さい。  
 
 「細かいことはいいから1人1行の全部のデータを見たい」ということなら、  
+3.5M ほどのデータになりますが、
 2021-08-04_PfMo_t2.csv  
+https://github.com/sarkov28/c19_mhlw_after_vaccination/raw/master/2021-08-04_PfMo_t2.csv  
 がいいと思います。
 
 ## ファイル名の命名規則
