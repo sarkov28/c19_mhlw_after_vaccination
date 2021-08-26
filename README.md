@@ -56,7 +56,7 @@ https://github.com/sarkov28/c19_mhlw_after_vaccination
 「細かいことはいいから1人1行の全部のデータを見たい」ということなら。  
 3.8M ほどのデータになりますが、  
 2021-08-25_PfMo_t2.csv  
-https://github.com/sarkov28/c19_mhlw_after_vaccination/raw/master/2021-08-25/2021-08-25_PfMo_t2.csv
+https://github.com/sarkov28/c19_mhlw_after_vaccination/raw/master/2021-08-25/2021-08-25_PfMo_t2.csv  
 がいいと思います。
 
 ## データのダウンロード方法
