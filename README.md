@@ -57,7 +57,7 @@ https://github.com/sarkov28/c19_mhlw_after_vaccination
 3.8M ほどのデータになりますが、  
 2021-08-25_PfMo_t2.csv  
 https://github.com/sarkov28/c19_mhlw_after_vaccination/raw/master/2021-08-25/2021-08-25_PfMo_t2.csv  
-がいいと思います。
+がいいと思います。（ブラウザで開くと文字化けすることがあります。お手数ですが、次項の手順でダウンロードしてご覧ください。）
 
 ## データのダウンロード方法
 
