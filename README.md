@@ -56,7 +56,7 @@ https://github.com/sarkov28/c19_mhlw_after_vaccination
 「細かいことはいいから1人1行の全部のデータを見たい」ということなら。  
 3.8M ほどのデータになりますが、  
 2021-08-25_PfMo_t2.csv  
-https://github.com/sarkov28/c19_mhlw_after_vaccination/raw/master/2021-08-25_PfMo_t2.csv  
+https://github.com/sarkov28/c19_mhlw_after_vaccination/raw/master/2021-08-25/2021-08-25_PfMo_t2.csv
 がいいと思います。
 
 ## データのダウンロード方法
@@ -150,9 +150,9 @@ sort&nbsp; --general-numeric-sort&nbsp; --stable&nbsp; (統合元のファイル
 しかし「発生日」データが異なる場合には、現在のように「接種から発生までの日数」を同じとするのは不適切です。  
 調べたところ、
 - 2021-08-04 の、No=[30, 2507, 10689, 13094] のデータ  
-  （例えば、[こちら](https://github.com/sarkov28/c19_mhlw_after_vaccination/raw/master/2021-08-04_PfMo_t2.csv) の該当の No の左から 5 カラム目。）
+  （例えば、[こちら](https://github.com/sarkov28/c19_mhlw_after_vaccination/raw/master/2021-08-04/2021-08-04_PfMo_t2.csv) の該当の No の左から 5 カラム目。）
 - 2021-08-25 の、No=[30, 2507, 10689, 13052] のデータ  
-  （例えば、[こちら](https://github.com/sarkov28/c19_mhlw_after_vaccination/raw/master/2021-08-25_PfMo_t2.csv) の該当の No の左から 5 カラム目。）
+  （例えば、[こちら](https://github.com/sarkov28/c19_mhlw_after_vaccination/raw/master/2021-08-25/2021-08-25_PfMo_t2.csv) の該当の No の左から 5 カラム目。）
 
 において、「発生日」データが異なっていました。  
 （全体で 22000 件ほどあるデータの中の、4 件の事例ではあります。）
