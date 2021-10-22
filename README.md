@@ -56,7 +56,7 @@ https://github.com/sarkov28/c19_mhlw_after_vaccination
 ## とりあえずデータを見たいなら
 
 「細かいことはいいから1人1行の全部のデータを見たい」ということなら。  
-4.4M ほどのファイルになりますが、  
+5M ほどのファイルになりますが、  
 2021-10-22/2021-10-22_PfMoAz_t2.csv  
 https://github.com/sarkov28/c19_mhlw_after_vaccination/raw/master/2021-10-22/2021-10-22_PfMoAz_t2.csv  
 がいいと思います。（ブラウザで開くと文字化けすることがあります。右クリックし、「名前を付けて保存」でダウンロードしてご覧ください。）
